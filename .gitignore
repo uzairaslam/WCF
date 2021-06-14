@@ -1,3 +1,11 @@
 WebServices/packages/
 WebServices/WebServiceClient/bin/
 WebServices/WebServiceClient/obj/
+IHelloRemotingService/HelloRemotingService/bin/
+IHelloRemotingService/HelloRemotingService/obj/
+IHelloRemotingService/HelloRemotingServiceClient/bin/
+IHelloRemotingService/HelloRemotingServiceClient/obj/
+IHelloRemotingService/IHelloRemotingService/obj/
+IHelloRemotingService/IHelloRemotingService/bin/
+IHelloRemotingService/RemotingServiceHost/obj/
+IHelloRemotingService/RemotingServiceHost/bin/
