@@ -1,0 +1,7 @@
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyService\bin\Debug\CompanyService.dll.config
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyService\bin\Debug\CompanyService.dll
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyService\bin\Debug\CompanyService.pdb
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyService\obj\Debug\CompanyService.csproj.AssemblyReference.cache
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyService\obj\Debug\CompanyService.csproj.CoreCompileInputs.cache
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyService\obj\Debug\CompanyService.dll
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyService\obj\Debug\CompanyService.pdb

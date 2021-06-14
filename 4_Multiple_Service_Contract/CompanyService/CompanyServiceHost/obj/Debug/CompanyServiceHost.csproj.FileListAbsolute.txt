@@ -1,0 +1,11 @@
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.exe.config
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.exe
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.pdb
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyServiceHost\bin\Debug\CompanyService.dll
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyServiceHost\bin\Debug\CompanyService.pdb
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyServiceHost\bin\Debug\CompanyService.dll.config
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.AssemblyReference.cache
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.CoreCompileInputs.cache
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.CopyComplete
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.exe
+F:\Projects\WCF\4_Multiple_Service_Contract\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.pdb
