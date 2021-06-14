@@ -1,0 +1,10 @@
+F:\Projects\WCF\3_WCF_Service\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe.config
+F:\Projects\WCF\3_WCF_Service\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe
+F:\Projects\WCF\3_WCF_Service\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.pdb
+F:\Projects\WCF\3_WCF_Service\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csproj.AssemblyReference.cache
+F:\Projects\WCF\3_WCF_Service\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.Form1.resources
+F:\Projects\WCF\3_WCF_Service\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.Properties.Resources.resources
+F:\Projects\WCF\3_WCF_Service\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csproj.GenerateResource.cache
+F:\Projects\WCF\3_WCF_Service\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csproj.CoreCompileInputs.cache
+F:\Projects\WCF\3_WCF_Service\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.exe
+F:\Projects\WCF\3_WCF_Service\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.pdb
